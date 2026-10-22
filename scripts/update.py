@@ -45,11 +45,23 @@ def playlist_ids(text):
 def collect(mapping, guide, path, wanted, now, end):
     """Match exact IDs, including feed suffixes. Never guess from names."""
     ids = {}
+    # Plex's lineup prefix can rotate. Allow a replacement only when the stable
+    # 24-hex channel suffix is unique AND the display name agrees exactly.
+    plex_channels = {}
+    if path == 'Plex/us':
+        for channel in guide.findall('channel'):
+            native = channel.get('id', '')
+            if re.fullmatch(r'[0-9a-f]{24}-[0-9a-f]{24}', native):
+                plex_channels.setdefault(native.split('-')[1], []).append(channel)
     for channel in mapping.findall('channel'):
         feed, _, native = channel.get('site_id', '').partition('#')
         target = channel.get('xmltv_id', '')
         if feed == path and target in wanted and native:
             ids.setdefault(native, set()).add(target)
+            if path == 'Plex/us' and re.fullmatch(r'[0-9a-f]{24}-[0-9a-f]{24}', native):
+                candidates = plex_channels.get(native.split('-')[1], [])
+                if len(candidates) == 1 and (channel.text or '').strip().casefold() == candidates[0].findtext('display-name', '').strip().casefold():
+                    ids.setdefault(candidates[0].get('id'), set()).add(target)
     result = {}
     for program in guide.findall('programme'):
         try:

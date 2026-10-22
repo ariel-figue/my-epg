@@ -30,3 +30,13 @@ class GuideTests(unittest.TestCase):
 
     def test_timezone(self):
         self.assertEqual(timestamp('20261022080000 -0400'), timestamp('20261022120000 +0000'))
+
+    def test_plex_prefix_rotation_requires_id_and_name(self):
+        now = datetime(2026, 10, 22, 12, tzinfo=timezone.utc)
+        old = 'a' * 24 + '-' + 'c' * 24
+        new = 'b' * 24 + '-' + 'c' * 24
+        mapping = E.fromstring(f'<channels><channel site_id="Plex/us#{old}" xmltv_id="News.us@SD">News</channel></channels>')
+        guide = E.fromstring(f'<tv><channel id="{new}"><display-name>News</display-name></channel><programme channel="{new}" start="20261022110000 +0000" stop="20261022130000 +0000"><title>News</title></programme></tv>')
+        self.assertIn('News.us@SD', collect(mapping, guide, 'Plex/us', {'News.us@SD'}, now, now + timedelta(days=1)))
+        guide.find('channel/display-name').text = 'Different channel'
+        self.assertEqual({}, collect(mapping, guide, 'Plex/us', {'News.us@SD'}, now, now + timedelta(days=1)))

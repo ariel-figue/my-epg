@@ -14,6 +14,8 @@ https://raw.githubusercontent.com/ariel-figue/my-epg/main/docs/matched-us.m3u
 
 The XMLTV IDs preserve exact playlist IDs, including regional/feed suffixes. Configure your app to refresh its EPG at least daily. Computer uptime is not required.
 
+Plex lineup-prefix rotations are accepted only when the stable channel identifier is unique and the display name also agrees; no name-only matching is used.
+
 ## Refresh
 
 GitHub Actions runs at 07:23 and 19:23 UTC. To refresh manually: **Actions → Refresh US EPG → Run workflow**. No secrets or paid services are needed. GitHub scheduling can be delayed; check Actions if the guide becomes stale. GitHub may disable scheduled workflows in inactive public repositories after 60 days; re-enable the workflow if necessary.

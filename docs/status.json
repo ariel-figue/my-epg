@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-10-24T21:39:44.777727+00:00",
+  "generated_utc": "2026-10-25T12:37:08.921344+00:00",
   "requested_days": 7,
-  "playlist_unique_ids": 1483,
+  "playlist_unique_ids": 1484,
   "matched_channels": 386,
   "coverage_percent": 26.0,
-  "programs": 12054,
+  "programs": 10813,
   "sources": [
     {
       "source": "PlutoTV/us",
@@ -34,57 +34,57 @@
   "channels": {
     "24HourFreeMovies.us@SD": {
       "source": "Plex/us",
-      "programs": 25,
-      "through_utc": "2026-10-26T00:05:25+00:00"
+      "programs": 8,
+      "through_utc": "2026-10-26T00:54:12+00:00"
     },
     "48Hours.us@US": {
       "source": "Roku/all",
       "programs": 71,
-      "through_utc": "2026-10-27T19:00:00+00:00"
+      "through_utc": "2026-10-28T10:00:00+00:00"
     },
     "50CentAction.us@SD": {
       "source": "Plex/us",
-      "programs": 26,
-      "through_utc": "2026-10-27T00:44:25+00:00"
+      "programs": 32,
+      "through_utc": "2026-10-28T00:34:47+00:00"
     },
     "70sCinema.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 6,
-      "through_utc": "2026-10-25T13:15:00+00:00"
+      "programs": 7,
+      "through_utc": "2026-10-26T04:15:00+00:00"
     },
     "80sRewind.us@SD": {
       "source": "PlutoTV/us",
       "programs": 8,
-      "through_utc": "2026-10-25T11:45:00+00:00"
+      "through_utc": "2026-10-26T05:00:00+00:00"
     },
     "90sThrowback.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 7,
-      "through_utc": "2026-10-25T13:15:00+00:00"
+      "programs": 8,
+      "through_utc": "2026-10-26T03:30:00+00:00"
     },
     "ACCDigitalNetwork.us@SD": {
       "source": "Plex/us",
-      "programs": 10,
+      "programs": 5,
       "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "ALLBLKGems.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 18,
-      "through_utc": "2026-10-25T11:45:00+00:00"
+      "programs": 19,
+      "through_utc": "2026-10-26T02:45:00+00:00"
     },
     "AMCenEspanol.us@SD": {
       "source": "Plex/us",
-      "programs": 25,
-      "through_utc": "2026-10-26T00:05:00+00:00"
+      "programs": 31,
+      "through_utc": "2026-10-27T01:04:00+00:00"
     },
     "AcapulcoShore.us@US": {
       "source": "PlutoTV/us",
-      "programs": 15,
-      "through_utc": "2026-10-25T11:45:00+00:00"
+      "programs": 14,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "AccuWeatherNOW.us@SD": {
       "source": "Plex/us",
-      "programs": 6,
+      "programs": 3,
       "through_utc": "2026-10-26T04:00:00+00:00"
     },
     "AfroLandTV.us@SD": {
@@ -94,1873 +94,1873 @@
     },
     "AllRealitybyWEtv.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 16,
-      "through_utc": "2026-10-25T11:38:00+00:00"
+      "programs": 15,
+      "through_utc": "2026-10-26T02:11:00+00:00"
     },
     "AllWeddingsWEtv.us@SD": {
       "source": "Plex/us",
-      "programs": 43,
-      "through_utc": "2026-10-27T01:43:00+00:00"
+      "programs": 12,
+      "through_utc": "2026-10-26T00:58:00+00:00"
     },
     "AlwaysFunnyVideos.us@SD": {
       "source": "Roku/all",
-      "programs": 134,
-      "through_utc": "2026-10-27T19:00:29+00:00"
+      "programs": 133,
+      "through_utc": "2026-10-28T10:00:29+00:00"
     },
     "AmericasTestKitchen.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:00:37+00:00"
+      "through_utc": "2026-10-26T02:10:49+00:00"
     },
     "AmericasVoice.us@SD": {
       "source": "Roku/all",
       "programs": 49,
-      "through_utc": "2026-10-27T21:00:00+00:00"
+      "through_utc": "2026-10-28T10:00:00+00:00"
     },
     "AmericasVoiceNews.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 10,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 12,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "AngerManagementChannel.us@SD": {
       "source": "Plex/us",
-      "programs": 120,
-      "through_utc": "2026-10-27T00:10:03+00:00"
+      "programs": 140,
+      "through_utc": "2026-10-28T00:03:04+00:00"
     },
     "AnimationPlus.us@SD": {
       "source": "Plex/us",
-      "programs": 50,
-      "through_utc": "2026-10-26T00:32:52+00:00"
+      "programs": 67,
+      "through_utc": "2026-10-27T00:06:56+00:00"
     },
     "AnimexHIDIVE.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "AntiquesRoadTrip.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "AntiquesRoadshowUK.us@SD": {
       "source": "PlutoTV/us",
       "programs": 13,
-      "through_utc": "2026-10-25T11:39:00+00:00"
+      "through_utc": "2026-10-26T02:05:00+00:00"
     },
     "AreWeThereYet.us@SD": {
       "source": "Plex/us",
-      "programs": 124,
-      "through_utc": "2026-10-27T00:00:35+00:00"
+      "programs": 147,
+      "through_utc": "2026-10-28T00:22:47+00:00"
     },
     "AsianCrush.us@SD": {
       "source": "Plex/us",
-      "programs": 20,
-      "through_utc": "2026-10-26T00:10:00+00:00"
+      "programs": 27,
+      "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "AtHomewithFamilyHandyman.us@SD": {
       "source": "Plex/us",
-      "programs": 32,
-      "through_utc": "2026-10-26T00:40:13+00:00"
+      "programs": 44,
+      "through_utc": "2026-10-27T00:52:13+00:00"
     },
     "BBCEarth.uk@US": {
       "source": "PlutoTV/us",
       "programs": 14,
-      "through_utc": "2026-10-25T11:27:00+00:00"
+      "through_utc": "2026-10-26T02:07:00+00:00"
     },
     "BBCFood.us@SD": {
       "source": "Plex/us",
-      "programs": 70,
+      "programs": 51,
       "through_utc": "2026-10-27T00:08:08+00:00"
     },
     "BBCHomeGarden.us@SD": {
       "source": "Roku/all",
-      "programs": 76,
-      "through_utc": "2026-10-27T19:30:29+00:00"
+      "programs": 75,
+      "through_utc": "2026-10-28T10:48:17+00:00"
     },
     "BETPlutoTV.us@US": {
       "source": "PlutoTV/us",
-      "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 26,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "BabySharkTV.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 24,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 28,
+      "through_utc": "2026-10-26T02:28:00+00:00"
     },
     "Backstage.us@SD": {
       "source": "Plex/us",
-      "programs": 18,
+      "programs": 7,
       "through_utc": "2026-10-26T01:14:46+00:00"
     },
     "BarRescue.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "Baywatch.us@US": {
       "source": "Plex/us",
-      "programs": 61,
-      "through_utc": "2026-10-27T00:14:44+00:00"
+      "programs": 15,
+      "through_utc": "2026-10-26T00:27:06+00:00"
     },
     "BellatorMMA.us@SD": {
       "source": "PlutoTV/us",
       "programs": 11,
-      "through_utc": "2026-10-25T11:15:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "BestofDrPhil.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 16,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 15,
+      "through_utc": "2026-10-26T02:45:00+00:00"
     },
     "BeverlyHillbillies.us@US": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "BilliardTV.us@SD": {
       "source": "Plex/us",
-      "programs": 26,
+      "programs": 16,
       "through_utc": "2026-10-27T01:00:00+00:00"
     },
     "BlackInkCrew.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "BlazeLive.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 10,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 14,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "BloombergOriginals.us@SD": {
       "source": "Plex/us",
-      "programs": 11,
+      "programs": 6,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "BloombergTV.us@US": {
       "source": "Plex/us",
-      "programs": 51,
-      "through_utc": "2026-10-27T00:00:00+00:00"
+      "programs": 60,
+      "through_utc": "2026-10-28T00:00:00+00:00"
     },
     "BlueBloods.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "BounceXL.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 16,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 14,
+      "through_utc": "2026-10-26T04:35:00+00:00"
     },
     "BratTV.us@SD": {
       "source": "Plex/us",
-      "programs": 34,
+      "programs": 19,
       "through_utc": "2026-10-26T01:15:04+00:00"
     },
     "BritBoxMysteries.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 13,
-      "through_utc": "2026-10-25T11:04:06+00:00"
+      "programs": 16,
+      "through_utc": "2026-10-26T02:24:56+00:00"
     },
     "Buzzr.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 24,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 25,
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "CBSNews247.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 20,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 13,
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "CBSNewsBaltimore.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 17,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 20,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "CBSNewsBayArea.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 22,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 16,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "CBSNewsBoston.us@SD": {
       "source": "PlutoTV/us",
       "programs": 17,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "CBSNewsChicago.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 17,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 16,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "CBSNewsColorado.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 16,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 14,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "CBSNewsDetroit.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 27,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 19,
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "CBSNewsLosAngeles.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 22,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 16,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "CBSNewsMiami.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 24,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 21,
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "CBSNewsMinnesota.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 17,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 18,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "CBSNewsNewYork.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 19,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 20,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "CBSNewsPhilly.us@SD": {
       "source": "PlutoTV/us",
       "programs": 22,
-      "through_utc": "2026-10-25T13:00:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "CBSNewsPittsburgh.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 25,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 20,
+      "through_utc": "2026-10-26T02:35:00+00:00"
     },
     "CBSNewsSacramento.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 18,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 15,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "CBSSportsGolazoNetwork.us@SD": {
       "source": "PlutoTV/us",
       "programs": 11,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "CBSSportsHQ.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 7,
-      "through_utc": "2026-10-25T16:00:00+00:00"
+      "programs": 6,
+      "through_utc": "2026-10-26T04:00:00+00:00"
     },
     "CMTEqualPlay.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "CNNOriginals.us@SD": {
       "source": "Plex/us",
-      "programs": 33,
+      "programs": 14,
       "through_utc": "2026-10-26T00:09:26+00:00"
     },
     "CSI.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 13,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 14,
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "CSIenespanol.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "CampSpoopy.us@SD": {
       "source": "Plex/us",
-      "programs": 12,
+      "programs": 5,
       "through_utc": "2026-10-26T01:00:00+00:00"
     },
     "CelebrityNameGame.us@SD": {
       "source": "Plex/us",
-      "programs": 66,
+      "programs": 29,
       "through_utc": "2026-10-26T00:01:36+00:00"
     },
     "CheddarNews.us@SD": {
       "source": "Plex/us",
-      "programs": 40,
+      "programs": 16,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "CineAdrenalina.us@SD": {
       "source": "PlutoTV/us",
       "programs": 7,
-      "through_utc": "2026-10-25T11:45:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "CineAmor.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 8,
-      "through_utc": "2026-10-25T14:00:00+00:00"
+      "programs": 7,
+      "through_utc": "2026-10-26T04:45:00+00:00"
     },
     "CinePremiere.us@SD": {
       "source": "PlutoTV/us",
       "programs": 6,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T04:30:00+00:00"
     },
     "CineRomantico.us@SD": {
       "source": "Plex/us",
-      "programs": 16,
+      "programs": 8,
       "through_utc": "2026-10-26T00:53:57+00:00"
     },
     "CineTerror.us@US": {
       "source": "PlutoTV/us",
-      "programs": 7,
-      "through_utc": "2026-10-25T13:00:00+00:00"
+      "programs": 8,
+      "through_utc": "2026-10-26T05:00:00+00:00"
     },
     "Cinevault80s.us@SD": {
       "source": "SamsungTVPlus/us",
-      "programs": 4,
-      "through_utc": "2026-10-25T05:31:47+00:00"
+      "programs": 3,
+      "through_utc": "2026-10-25T18:23:49+00:00"
     },
     "CinevaultWesterns.us@SD": {
       "source": "Roku/all",
       "programs": 44,
-      "through_utc": "2026-10-27T20:00:04+00:00"
+      "through_utc": "2026-10-28T10:15:01+00:00"
     },
     "Circle.us@SD": {
       "source": "Roku/all",
-      "programs": 74,
-      "through_utc": "2026-10-27T19:37:00+00:00"
+      "programs": 75,
+      "through_utc": "2026-10-28T10:47:00+00:00"
     },
     "Clarity4K.us@SD": {
       "source": "SamsungTVPlus/us",
-      "programs": 8,
-      "through_utc": "2026-10-25T04:08:40+00:00"
+      "programs": 7,
+      "through_utc": "2026-10-25T18:45:39+00:00"
     },
     "ClassicMoviesChannel.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 6,
-      "through_utc": "2026-10-25T11:45:00+00:00"
+      "programs": 7,
+      "through_utc": "2026-10-26T02:45:00+00:00"
     },
     "ClassicTVComedy.us@SD": {
       "source": "PlutoTV/us",
       "programs": 27,
-      "through_utc": "2026-10-25T11:00:48+00:00"
+      "through_utc": "2026-10-26T02:00:48+00:00"
     },
     "ClassicTVDrama.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "ClassicTVFamilies.us@US": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "Classica.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 11,
-      "through_utc": "2026-10-25T12:06:00+00:00"
+      "programs": 10,
+      "through_utc": "2026-10-26T03:22:00+00:00"
     },
     "ColdCaseFiles.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "ComedyCentralPlutoTV.us@US": {
       "source": "PlutoTV/us",
-      "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 27,
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "ComedyCentralenEspanol.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 13,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 18,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "ComedyDynamics.us@SD": {
       "source": "Plex/us",
-      "programs": 49,
-      "through_utc": "2026-10-27T01:45:00+00:00"
+      "programs": 12,
+      "through_utc": "2026-10-26T00:32:00+00:00"
     },
     "Cops.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "CourtTV.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 16,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 15,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "Crime360.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T11:59:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "CrimenesImperfectos.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "Crunchyroll.us@SD": {
       "source": "Roku/all",
-      "programs": 138,
-      "through_utc": "2026-10-27T19:00:15+00:00"
+      "programs": 139,
+      "through_utc": "2026-10-28T10:00:23+00:00"
     },
     "CuriosityNOW.de@EN": {
       "source": "Plex/us",
-      "programs": 13,
-      "through_utc": "2026-10-27T02:00:00+00:00"
+      "programs": 45,
+      "through_utc": "2026-10-27T00:12:00+00:00"
     },
     "DangerTV.us@SD": {
       "source": "Roku/all",
-      "programs": 126,
-      "through_utc": "2026-10-27T19:19:21+00:00"
+      "programs": 128,
+      "through_utc": "2026-10-28T10:11:26+00:00"
     },
     "DarkMatterTV.us@SD": {
       "source": "Plex/us",
-      "programs": 15,
+      "programs": 7,
       "through_utc": "2026-10-26T00:01:16+00:00"
     },
     "Dateline247.us@SD": {
       "source": "PlutoTV/us",
       "programs": 13,
-      "through_utc": "2026-10-25T11:53:00+00:00"
+      "through_utc": "2026-10-26T02:14:00+00:00"
     },
     "DealorNoDeal.us@SD": {
       "source": "PlutoTV/us",
       "programs": 13,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "Degrassi.us@US": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "DesignatedSurvivor.us@SD": {
       "source": "Plex/us",
-      "programs": 61,
-      "through_utc": "2026-10-27T00:49:58+00:00"
+      "programs": 72,
+      "through_utc": "2026-10-28T00:47:58+00:00"
     },
     "DoctorWhoClassic.us@US": {
       "source": "PlutoTV/us",
-      "programs": 29,
-      "through_utc": "2026-10-25T11:26:00+00:00"
+      "programs": 30,
+      "through_utc": "2026-10-26T02:27:00+00:00"
     },
     "DocumentaryPlus.us@US": {
       "source": "Plex/us",
-      "programs": 23,
+      "programs": 10,
       "through_utc": "2026-10-26T01:14:40+00:00"
     },
     "DogtheBountyHunter.us@US": {
       "source": "PlutoTV/us",
       "programs": 3,
-      "through_utc": "2026-10-25T16:00:00+00:00"
+      "through_utc": "2026-10-26T08:00:00+00:00"
     },
     "DontTellTheBride.uk@SD": {
       "source": "Plex/us",
-      "programs": 26,
+      "programs": 12,
       "through_utc": "2026-10-26T00:34:27+00:00"
     },
     "DoveChannel.us@SD": {
       "source": "Roku/all",
-      "programs": 45,
-      "through_utc": "2026-10-27T20:30:00+00:00"
+      "programs": 44,
+      "through_utc": "2026-10-28T10:00:00+00:00"
     },
     "DraftKingsNetwork.us@SD": {
       "source": "Roku/all",
-      "programs": 56,
-      "through_utc": "2026-10-27T19:00:00+00:00"
+      "programs": 55,
+      "through_utc": "2026-10-28T12:00:00+00:00"
     },
     "DryBarComedyPlus.us@SD": {
       "source": "SamsungTVPlus/us",
       "programs": 10,
-      "through_utc": "2026-10-25T04:06:53+00:00"
+      "through_utc": "2026-10-25T18:25:52+00:00"
     },
     "EKeepingUp.us@SD": {
       "source": "Plex/us",
-      "programs": 63,
-      "through_utc": "2026-10-27T00:15:00+00:00"
+      "programs": 74,
+      "through_utc": "2026-10-28T00:42:00+00:00"
     },
     "EbonyTVbyLionsgate.us@SD": {
       "source": "Plex/us",
-      "programs": 62,
-      "through_utc": "2026-10-27T00:41:30+00:00"
+      "programs": 90,
+      "through_utc": "2026-10-28T00:53:59+00:00"
     },
     "ElectricNow.us@SD": {
       "source": "Plex/us",
-      "programs": 49,
-      "through_utc": "2026-10-27T00:00:00+00:00"
+      "programs": 56,
+      "through_utc": "2026-10-28T00:00:00+00:00"
     },
     "EntertainmentTonight.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 23,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 22,
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "EstrellaGames.us@SD": {
       "source": "Plex/us",
-      "programs": 27,
-      "through_utc": "2026-10-26T00:00:00+00:00"
+      "programs": 36,
+      "through_utc": "2026-10-27T00:00:01+00:00"
     },
     "EstrellaNews.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 26,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 25,
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "EstrellaTV.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "F1Channel.ie@US": {
       "source": "Plex/us",
-      "programs": 35,
+      "programs": 26,
       "through_utc": "2026-10-27T00:30:38+00:00"
     },
     "FIFAPlus.uk@UnitedStates": {
       "source": "Plex/us",
-      "programs": 34,
+      "programs": 23,
       "through_utc": "2026-10-27T00:42:12+00:00"
     },
     "FTFSports.us@SD": {
       "source": "Plex/us",
-      "programs": 23,
-      "through_utc": "2026-10-26T00:30:00+00:00"
+      "programs": 25,
+      "through_utc": "2026-10-27T00:30:00+00:00"
     },
     "FailArmy.us@US": {
       "source": "PlutoTV/us",
       "programs": 27,
-      "through_utc": "2026-10-25T11:19:00+00:00"
+      "through_utc": "2026-10-26T02:23:00+00:00"
     },
     "FamilyTies.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 27,
+      "through_utc": "2026-10-26T02:45:00+00:00"
     },
     "Farscape.us@SD": {
       "source": "Plex/us",
-      "programs": 57,
-      "through_utc": "2026-10-27T00:36:00+00:00"
+      "programs": 66,
+      "through_utc": "2026-10-28T00:35:00+00:00"
     },
     "FastTV.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 28,
-      "through_utc": "2026-10-25T11:25:34+00:00"
+      "programs": 22,
+      "through_utc": "2026-10-26T02:07:03+00:00"
     },
     "FearFactor.us@US": {
       "source": "Roku/all",
-      "programs": 73,
-      "through_utc": "2026-10-27T20:09:00+00:00"
+      "programs": 70,
+      "through_utc": "2026-10-28T10:20:00+00:00"
     },
     "FilmRiseForensicFiles.us@SD": {
       "source": "Roku/all",
-      "programs": 175,
-      "through_utc": "2026-10-27T19:15:40+00:00"
+      "programs": 177,
+      "through_utc": "2026-10-28T10:22:12+00:00"
     },
     "FlicksofFury.us@SD": {
       "source": "PlutoTV/us",
       "programs": 7,
-      "through_utc": "2026-10-25T13:00:00+00:00"
+      "through_utc": "2026-10-26T03:15:00+00:00"
     },
     "ForensicFiles.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "ForeverKids.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 27,
-      "through_utc": "2026-10-25T11:06:00+00:00"
+      "programs": 28,
+      "through_utc": "2026-10-26T02:29:00+00:00"
     },
     "FoxSoul.us@SD": {
       "source": "SamsungTVPlus/us",
       "programs": 8,
-      "through_utc": "2026-10-25T05:00:00+00:00"
+      "through_utc": "2026-10-25T19:00:00+00:00"
     },
     "FoxWeather.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 12,
-      "through_utc": "2026-10-25T16:00:00+00:00"
+      "programs": 5,
+      "through_utc": "2026-10-26T05:00:00+00:00"
     },
     "FrightFlix.us@SD": {
       "source": "Plex/us",
-      "programs": 27,
+      "programs": 12,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "FuboSportsNetwork.us@SD": {
       "source": "Plex/us",
-      "programs": 31,
+      "programs": 25,
       "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "FunnyAF.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 9,
-      "through_utc": "2026-10-25T11:30:10+00:00"
+      "programs": 18,
+      "through_utc": "2026-10-26T03:00:10+00:00"
     },
     "GameShowCentral.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 32,
-      "through_utc": "2026-10-25T11:18:00+00:00"
+      "programs": 31,
+      "through_utc": "2026-10-26T02:18:00+00:00"
     },
     "GarfieldandFriends.us@US": {
       "source": "PlutoTV/us",
-      "programs": 29,
-      "through_utc": "2026-10-25T11:16:00+00:00"
+      "programs": 28,
+      "through_utc": "2026-10-26T02:05:00+00:00"
     },
     "GoTraveler.us@SD": {
       "source": "Plex/us",
-      "programs": 47,
+      "programs": 21,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "GordonRamsaysHellsKitchen.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "GravitasMovies.us@SD": {
       "source": "Plex/us",
-      "programs": 25,
-      "through_utc": "2026-10-27T01:10:41+00:00"
+      "programs": 6,
+      "through_utc": "2026-10-26T01:17:39+00:00"
     },
     "GritXtra.us@SD": {
       "source": "Plex/us",
-      "programs": 51,
-      "through_utc": "2026-10-27T00:00:00+00:00"
+      "programs": 6,
+      "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "GrjngoWesternMovies.de@SD": {
       "source": "Plex/us",
-      "programs": 30,
-      "through_utc": "2026-10-27T01:26:36+00:00"
+      "programs": 7,
+      "through_utc": "2026-10-26T01:06:51+00:00"
     },
     "Gunsmoke.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 20,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 16,
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "HSN.us@East": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "HallmarkMoviesMore.us@SD": {
       "source": "PlutoTV/us",
       "programs": 16,
-      "through_utc": "2026-10-25T11:25:44+00:00"
+      "through_utc": "2026-10-26T02:20:11+00:00"
     },
     "HappyDays.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "HauntTV.ca@SD": {
       "source": "Roku/all",
-      "programs": 88,
-      "through_utc": "2026-10-27T19:04:00+00:00"
+      "programs": 92,
+      "through_utc": "2026-10-28T10:04:00+00:00"
     },
     "Heartland.us@Web": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "HiYAH.us@SD": {
       "source": "Plex/us",
-      "programs": 13,
-      "through_utc": "2026-10-26T01:58:51+00:00"
+      "programs": 18,
+      "through_utc": "2026-10-27T01:45:39+00:00"
     },
     "HistoryHit.uk@SD": {
       "source": "Plex/us",
-      "programs": 57,
+      "programs": 38,
       "through_utc": "2026-10-27T00:06:23+00:00"
     },
     "HollyWire.us@SD": {
       "source": "SamsungTVPlus/us",
-      "programs": 5,
-      "through_utc": "2026-10-25T04:04:41+00:00"
+      "programs": 6,
+      "through_utc": "2026-10-25T18:34:34+00:00"
     },
     "HomeMadeNation.us@SD": {
       "source": "Plex/us",
-      "programs": 59,
+      "programs": 42,
       "through_utc": "2026-10-27T00:32:00+00:00"
     },
     "Homeful.ca@US": {
       "source": "Roku/all",
-      "programs": 81,
-      "through_utc": "2026-10-27T19:19:00+00:00"
+      "programs": 82,
+      "through_utc": "2026-10-28T10:10:00+00:00"
     },
     "Hungry.us@SD": {
       "source": "SamsungTVPlus/us",
       "programs": 12,
-      "through_utc": "2026-10-25T03:29:39+00:00"
+      "through_utc": "2026-10-25T18:30:12+00:00"
     },
     "IONTV.us@East": {
       "source": "Plex/us",
-      "programs": 51,
-      "through_utc": "2026-10-27T00:00:00+00:00"
+      "programs": 60,
+      "through_utc": "2026-10-28T00:00:00+00:00"
     },
     "ImpossibleQuizShow.us@SD": {
       "source": "Plex/us",
-      "programs": 61,
-      "through_utc": "2026-10-27T00:27:41+00:00"
+      "programs": 15,
+      "through_utc": "2026-10-26T00:45:40+00:00"
     },
     "InkMaster.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "IronChef.us@US": {
       "source": "Plex/us",
-      "programs": 60,
+      "programs": 42,
       "through_utc": "2026-10-27T00:33:43+00:00"
     },
     "JerseyShore.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "JewelryTV.us@SD": {
       "source": "Roku/all",
-      "programs": 41,
-      "through_utc": "2026-10-27T20:00:00+00:00"
+      "programs": 40,
+      "through_utc": "2026-10-28T10:00:00+00:00"
     },
     "JohnnyCarsonTV.us@SD": {
       "source": "Plex/us",
-      "programs": 51,
-      "through_utc": "2026-10-27T00:21:14+00:00"
+      "programs": 12,
+      "through_utc": "2026-10-26T00:40:27+00:00"
     },
     "Journy.us@SD": {
       "source": "Plex/us",
-      "programs": 66,
+      "programs": 29,
       "through_utc": "2026-10-26T00:20:19+00:00"
     },
     "JudgeNosey.us@US": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "JustforLaughsGags.us@SD": {
       "source": "Plex/us",
-      "programs": 51,
+      "programs": 23,
       "through_utc": "2026-10-26T00:10:58+00:00"
     },
     "KartoonChannel.us@SD": {
       "source": "PlutoTV/us",
       "programs": 29,
-      "through_utc": "2026-10-25T11:09:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "KevinHartsLOLNetwork.us@SD": {
       "source": "Plex/us",
-      "programs": 41,
-      "through_utc": "2026-10-27T01:11:30+00:00"
+      "programs": 7,
+      "through_utc": "2026-10-26T01:14:58+00:00"
     },
     "KidsFlix.us@SD": {
       "source": "Plex/us",
-      "programs": 22,
+      "programs": 8,
       "through_utc": "2026-10-26T00:18:23+00:00"
     },
     "LATV.us@SD": {
       "source": "Plex/us",
-      "programs": 49,
+      "programs": 21,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "LEGOKidsTV.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 31,
-      "through_utc": "2026-10-25T11:25:00+00:00"
+      "programs": 33,
+      "through_utc": "2026-10-26T02:21:00+00:00"
     },
     "LawCrime.us@SD": {
       "source": "Roku/all",
-      "programs": 104,
-      "through_utc": "2026-10-27T19:00:00+00:00"
+      "programs": 109,
+      "through_utc": "2026-10-28T10:00:00+00:00"
     },
     "LittleStarsUniverse.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:25:00+00:00"
+      "through_utc": "2026-10-26T02:25:00+00:00"
     },
     "LiveNOWfromFOX.us@SD": {
       "source": "PlutoTV/us",
       "programs": 6,
-      "through_utc": "2026-10-25T18:00:00+00:00"
+      "through_utc": "2026-10-26T10:00:00+00:00"
     },
     "Localish.us@SD": {
       "source": "Roku/all",
-      "programs": 136,
-      "through_utc": "2026-10-27T19:00:00+00:00"
+      "programs": 138,
+      "through_utc": "2026-10-28T10:00:00+00:00"
     },
     "LogoPlutoTV.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 14,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 17,
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "LoneStar.us@SD": {
       "source": "Plex/us",
-      "programs": 53,
-      "through_utc": "2026-10-27T00:00:00+00:00"
+      "programs": 9,
+      "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "LoveHipHop.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "LoveNatureenEspanol.us@SD": {
       "source": "Roku/all",
-      "programs": 75,
-      "through_utc": "2026-10-27T19:45:00+00:00"
+      "programs": 74,
+      "through_utc": "2026-10-28T10:00:00+00:00"
     },
     "LovePets.ca@US": {
       "source": "Plex/us",
-      "programs": 82,
-      "through_utc": "2026-10-27T00:12:50+00:00"
+      "programs": 19,
+      "through_utc": "2026-10-26T00:23:58+00:00"
     },
     "LuckyDog.us@SD": {
       "source": "SamsungTVPlus/us",
       "programs": 15,
-      "through_utc": "2026-10-25T03:44:33+00:00"
+      "through_utc": "2026-10-25T18:30:21+00:00"
     },
     "MLB.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 7,
-      "through_utc": "2026-10-25T12:15:45+00:00"
+      "programs": 12,
+      "through_utc": "2026-10-26T03:35:45+00:00"
     },
     "MST3K.us@US": {
       "source": "PlutoTV/us",
-      "programs": 11,
-      "through_utc": "2026-10-25T13:00:00+00:00"
+      "programs": 9,
+      "through_utc": "2026-10-26T04:00:00+00:00"
     },
     "MTVBiggestPop.us@US": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "MTVPlutoTV.us@US": {
       "source": "PlutoTV/us",
       "programs": 22,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "MTVSpankinNew.us@US": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "MTVenEspanol.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 13,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 14,
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "MadeInHollywood.us@SD": {
       "source": "Plex/us",
-      "programs": 53,
+      "programs": 23,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "MagellanTVNow.us@SD": {
       "source": "SamsungTVPlus/us",
-      "programs": 6,
-      "through_utc": "2026-10-25T03:27:41+00:00"
+      "programs": 7,
+      "through_utc": "2026-10-25T18:57:48+00:00"
     },
     "Matlock.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "MaverickBlackCinema.us@SD": {
       "source": "Plex/us",
-      "programs": 28,
+      "programs": 20,
       "through_utc": "2026-10-27T01:04:57+00:00"
     },
     "MeTV.us@SD": {
       "source": "MeTV/epg",
-      "programs": 214,
+      "programs": 200,
       "through_utc": "2026-10-31T09:30:00+00:00"
     },
     "MidnightPulp.us@SD": {
       "source": "Plex/us",
-      "programs": 15,
-      "through_utc": "2026-10-26T00:00:00+00:00"
+      "programs": 20,
+      "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "MidsomerMurders.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 8,
-      "through_utc": "2026-10-25T11:15:00+00:00"
+      "programs": 9,
+      "through_utc": "2026-10-26T03:45:00+00:00"
     },
     "MissionImpossible.us@SD": {
       "source": "PlutoTV/us",
       "programs": 14,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "Misteriossinresolver.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T11:45:00+00:00"
+      "through_utc": "2026-10-26T02:45:00+00:00"
     },
     "MoreTVDrama.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "MoreTVSitcoms.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "MovieSphere.us@US": {
       "source": "Plex/us",
-      "programs": 26,
-      "through_utc": "2026-10-27T00:37:42+00:00"
+      "programs": 31,
+      "through_utc": "2026-10-28T01:44:14+00:00"
     },
     "MrBeanAnimated.uk@English": {
       "source": "Plex/us",
-      "programs": 41,
+      "programs": 10,
       "through_utc": "2026-10-26T03:14:05+00:00"
     },
     "MyTimeMovieNetworkEast.us@SD": {
       "source": "Plex/us",
-      "programs": 30,
-      "through_utc": "2026-10-27T00:50:03+00:00"
+      "programs": 36,
+      "through_utc": "2026-10-28T00:45:17+00:00"
     },
     "NBCComedyVault.us@SD": {
       "source": "Roku/all",
-      "programs": 178,
-      "through_utc": "2026-10-27T19:00:00+00:00"
+      "programs": 179,
+      "through_utc": "2026-10-28T10:08:00+00:00"
     },
     "NBCLX.us@SD": {
       "source": "SamsungTVPlus/us",
-      "programs": 14,
-      "through_utc": "2026-10-25T03:25:00+00:00"
+      "programs": 15,
+      "through_utc": "2026-10-25T18:43:00+00:00"
     },
     "NBCNewsNOW.us@SD": {
       "source": "PlutoTV/us",
       "programs": 13,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "NBCSportsNOW.us@SD": {
       "source": "Plex/us",
-      "programs": 46,
+      "programs": 32,
       "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "NEWKMOVIES.us@SD": {
       "source": "Plex/us",
-      "programs": 24,
+      "programs": 17,
       "through_utc": "2026-10-27T00:22:51+00:00"
     },
     "NEWKPOP.us@SD": {
       "source": "Plex/us",
-      "programs": 16,
+      "programs": 8,
       "through_utc": "2026-10-26T00:26:14+00:00"
     },
     "NFLChannel.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 10,
-      "through_utc": "2026-10-25T11:25:00+00:00"
+      "programs": 6,
+      "through_utc": "2026-10-26T07:06:00+00:00"
     },
     "NHRATV.us@SD": {
       "source": "Plex/us",
-      "programs": 28,
+      "programs": 20,
       "through_utc": "2026-10-27T01:30:00+00:00"
     },
     "Naruto.us@US": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "NashBridges.us@SD": {
       "source": "Plex/us",
-      "programs": 57,
-      "through_utc": "2026-10-27T00:43:09+00:00"
+      "programs": 67,
+      "through_utc": "2026-10-28T00:49:31+00:00"
     },
     "News12NewYork.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "Newsmax2.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 14,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 17,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "NewsmaxTV.us@SD": {
       "source": "SamsungTVPlus/us",
       "programs": 8,
-      "through_utc": "2026-10-25T04:00:00+00:00"
+      "through_utc": "2026-10-25T19:00:00+00:00"
     },
     "NickJrPlutoTV.us@US": {
       "source": "PlutoTV/us",
-      "programs": 35,
-      "through_utc": "2026-10-25T11:15:00+00:00"
+      "programs": 33,
+      "through_utc": "2026-10-26T02:15:00+00:00"
     },
     "NickelodeonPlutoTV.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 33,
-      "through_utc": "2026-10-25T11:15:00+00:00"
+      "programs": 34,
+      "through_utc": "2026-10-26T02:25:00+00:00"
     },
     "NinjaKidzTV.us@SD": {
       "source": "Roku/all",
-      "programs": 124,
-      "through_utc": "2026-10-27T19:14:18+00:00"
+      "programs": 128,
+      "through_utc": "2026-10-28T10:14:27+00:00"
     },
     "Nosey.us@US": {
       "source": "PlutoTV/us",
-      "programs": 16,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 15,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "Novelisima.us@SD": {
       "source": "Plex/us",
-      "programs": 27,
-      "through_utc": "2026-10-26T00:00:00+00:00"
+      "programs": 36,
+      "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "OANPlus.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "OuterSphere.us@SD": {
       "source": "Plex/us",
-      "programs": 15,
-      "through_utc": "2026-10-26T00:27:56+00:00"
+      "programs": 20,
+      "through_utc": "2026-10-27T00:52:36+00:00"
     },
     "OutsideTV.us@SD": {
       "source": "Plex/us",
-      "programs": 34,
-      "through_utc": "2026-10-26T00:00:00+00:00"
+      "programs": 48,
+      "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "Overtime.us@SD": {
       "source": "Plex/us",
-      "programs": 12,
-      "through_utc": "2026-10-26T01:29:00+00:00"
+      "programs": 14,
+      "through_utc": "2026-10-27T00:09:00+00:00"
     },
     "PBRRidePass.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 13,
-      "through_utc": "2026-10-25T11:57:04+00:00"
+      "programs": 7,
+      "through_utc": "2026-10-26T04:40:35+00:00"
     },
     "PBSAntiquesRoadshow.us@SD": {
       "source": "PlutoTV/us",
       "programs": 14,
-      "through_utc": "2026-10-25T11:02:00+00:00"
+      "through_utc": "2026-10-26T02:24:00+00:00"
     },
     "PBSNature.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 13,
-      "through_utc": "2026-10-25T11:47:00+00:00"
+      "programs": 12,
+      "through_utc": "2026-10-26T03:17:00+00:00"
     },
     "PBSTravel.us@SD": {
       "source": "Plex/us",
-      "programs": 79,
+      "programs": 55,
       "through_utc": "2026-10-27T00:30:59+00:00"
     },
     "PGATour.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 9,
-      "through_utc": "2026-10-25T18:00:00+00:00"
+      "programs": 6,
+      "through_utc": "2026-10-26T09:05:00+00:00"
     },
     "Pac12Insider.us@SD": {
       "source": "Plex/us",
-      "programs": 27,
+      "programs": 9,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "ParamountMovieChannel.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 6,
-      "through_utc": "2026-10-25T14:00:00+00:00"
+      "programs": 7,
+      "through_utc": "2026-10-26T04:45:00+00:00"
     },
     "ParamountPlusPicks.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 22,
-      "through_utc": "2026-10-25T11:08:00+00:00"
+      "programs": 19,
+      "through_utc": "2026-10-26T02:32:00+00:00"
     },
     "PeopleAreAwesome.us@SD": {
       "source": "Plex/us",
-      "programs": 51,
+      "programs": 23,
       "through_utc": "2026-10-26T00:25:57+00:00"
     },
     "PerryMason.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T11:45:00+00:00"
+      "through_utc": "2026-10-26T02:45:00+00:00"
     },
     "PlutoTVAction.us@US": {
       "source": "PlutoTV/us",
-      "programs": 6,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 7,
+      "through_utc": "2026-10-26T04:45:00+00:00"
     },
     "PlutoTVAdventure.us@US": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "PlutoTVAnime.us@US": {
       "source": "PlutoTV/us",
       "programs": 27,
-      "through_utc": "2026-10-25T11:00:24+00:00"
+      "through_utc": "2026-10-26T02:00:24+00:00"
     },
     "PlutoTVAnimeMovies.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 7,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 9,
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "PlutoTVCars.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 26,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 23,
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "PlutoTVCineComedia.us@US": {
       "source": "PlutoTV/us",
       "programs": 8,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T04:15:00+00:00"
     },
     "PlutoTVComedy.us@US": {
       "source": "PlutoTV/us",
       "programs": 8,
-      "through_utc": "2026-10-25T11:45:00+00:00"
+      "through_utc": "2026-10-26T04:30:00+00:00"
     },
     "PlutoTVCompetition.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 21,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 15,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "PlutoTVCrimeDrama.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "PlutoTVCrimeMovies.us@SD": {
       "source": "PlutoTV/us",
       "programs": 6,
-      "through_utc": "2026-10-25T16:30:00+00:00"
+      "through_utc": "2026-10-26T07:45:00+00:00"
     },
     "PlutoTVCultFilms.us@US": {
       "source": "PlutoTV/us",
-      "programs": 7,
-      "through_utc": "2026-10-25T12:45:01+00:00"
+      "programs": 8,
+      "through_utc": "2026-10-26T04:15:01+00:00"
     },
     "PlutoTVDrama.us@US": {
       "source": "PlutoTV/us",
-      "programs": 7,
-      "through_utc": "2026-10-25T12:30:00+00:00"
+      "programs": 6,
+      "through_utc": "2026-10-26T05:45:00+00:00"
     },
     "PlutoTVElReinoInfantil.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 27,
-      "through_utc": "2026-10-25T11:01:00+00:00"
+      "programs": 26,
+      "through_utc": "2026-10-26T02:12:00+00:00"
     },
     "PlutoTVFantastic.us@SD": {
       "source": "PlutoTV/us",
       "programs": 7,
-      "through_utc": "2026-10-25T13:45:00+00:00"
+      "through_utc": "2026-10-26T03:15:00+00:00"
     },
     "PlutoTVGameShows.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 25,
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "PlutoTVHistory.us@US": {
       "source": "PlutoTV/us",
-      "programs": 20,
-      "through_utc": "2026-10-25T11:19:00+00:00"
+      "programs": 15,
+      "through_utc": "2026-10-26T02:34:00+00:00"
     },
     "PlutoTVHometownDrama.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "PlutoTVHorror.us@US": {
       "source": "PlutoTV/us",
       "programs": 8,
-      "through_utc": "2026-10-25T12:45:00+00:00"
+      "through_utc": "2026-10-26T04:15:00+00:00"
     },
     "PlutoTVIcons.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 6,
-      "through_utc": "2026-10-25T12:45:00+00:00"
+      "programs": 7,
+      "through_utc": "2026-10-26T02:45:00+00:00"
     },
     "PlutoTVLives.us@US": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "PlutoTVMilitary.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 17,
-      "through_utc": "2026-10-25T11:00:01+00:00"
+      "programs": 20,
+      "through_utc": "2026-10-26T02:00:01+00:00"
     },
     "PlutoTVNovelas.us@US": {
       "source": "PlutoTV/us",
-      "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 14,
+      "through_utc": "2026-10-26T02:15:00+00:00"
     },
     "PlutoTVParanormal.us@US": {
       "source": "PlutoTV/us",
-      "programs": 19,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 21,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "PlutoTVReaction.us@SD": {
       "source": "PlutoTV/us",
       "programs": 8,
-      "through_utc": "2026-10-25T12:45:00+00:00"
+      "through_utc": "2026-10-26T03:45:00+00:00"
     },
     "PlutoTVReality.us@US": {
       "source": "PlutoTV/us",
-      "programs": 23,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 25,
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "PlutoTVRomance.us@US": {
       "source": "PlutoTV/us",
-      "programs": 6,
-      "through_utc": "2026-10-25T14:15:00+00:00"
+      "programs": 8,
+      "through_utc": "2026-10-26T04:45:00+00:00"
     },
     "PlutoTVSciFi.us@US": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "PlutoTVScience.us@US": {
       "source": "PlutoTV/us",
-      "programs": 18,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 16,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "PlutoTVSpotlight.us@SD": {
       "source": "PlutoTV/us",
       "programs": 8,
-      "through_utc": "2026-10-25T13:15:00+00:00"
+      "through_utc": "2026-10-26T04:00:00+00:00"
     },
     "PlutoTVStaffPicks.us@SD": {
       "source": "PlutoTV/us",
       "programs": 7,
-      "through_utc": "2026-10-25T13:15:00+00:00"
+      "through_utc": "2026-10-26T05:00:00+00:00"
     },
     "PlutoTVTerror.us@SD": {
       "source": "PlutoTV/us",
       "programs": 7,
-      "through_utc": "2026-10-25T12:30:00+00:00"
+      "through_utc": "2026-10-26T04:00:00+00:00"
     },
     "PlutoTVTheTwilightZone.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 27,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 25,
+      "through_utc": "2026-10-26T02:15:00+00:00"
     },
     "PlutoTVThrillers.us@US": {
       "source": "PlutoTV/us",
-      "programs": 6,
-      "through_utc": "2026-10-25T13:00:06+00:00"
+      "programs": 7,
+      "through_utc": "2026-10-26T04:45:06+00:00"
     },
     "PlutoTVTrendingNow.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 7,
-      "through_utc": "2026-10-25T12:45:00+00:00"
+      "programs": 8,
+      "through_utc": "2026-10-26T04:45:00+00:00"
     },
     "PlutoTVTrueCrime.us@US": {
       "source": "PlutoTV/us",
-      "programs": 21,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 16,
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "PlutoTVWesterns.us@US": {
       "source": "PlutoTV/us",
       "programs": 7,
-      "through_utc": "2026-10-25T13:30:04+00:00"
+      "through_utc": "2026-10-26T05:30:04+00:00"
     },
     "PokerGo.us@US": {
       "source": "PlutoTV/us",
-      "programs": 7,
-      "through_utc": "2026-10-25T15:00:00+00:00"
+      "programs": 10,
+      "through_utc": "2026-10-26T09:00:00+00:00"
     },
     "Portlandia.us@SD": {
       "source": "Plex/us",
-      "programs": 120,
-      "through_utc": "2026-10-27T00:08:26+00:00"
+      "programs": 142,
+      "through_utc": "2026-10-28T00:12:24+00:00"
     },
     "PowerNationTV.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 33,
-      "through_utc": "2026-10-25T11:20:00+00:00"
+      "programs": 31,
+      "through_utc": "2026-10-26T02:14:00+00:00"
     },
     "PursuitUP.us@SD": {
       "source": "Plex/us",
-      "programs": 52,
-      "through_utc": "2026-10-26T00:00:00+00:00"
+      "programs": 70,
+      "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "QVC.us@SD": {
       "source": "Roku/all",
-      "programs": 47,
-      "through_utc": "2026-10-27T19:00:00+00:00"
+      "programs": 52,
+      "through_utc": "2026-10-28T10:00:00+00:00"
     },
     "QVC2.us@SD": {
       "source": "Roku/all",
-      "programs": 41,
-      "through_utc": "2026-10-27T20:00:00+00:00"
+      "programs": 37,
+      "through_utc": "2026-10-28T12:00:00+00:00"
     },
     "RainbowRuby.us@SD": {
       "source": "Roku/all",
       "programs": 166,
-      "through_utc": "2026-10-27T19:08:30+00:00"
+      "through_utc": "2026-10-28T10:16:26+00:00"
     },
     "RealAmericasVoice.us@SD": {
       "source": "SamsungTVPlus/us",
-      "programs": 3,
-      "through_utc": "2026-10-25T04:00:00+00:00"
+      "programs": 7,
+      "through_utc": "2026-10-25T21:00:00+00:00"
     },
     "RealWild.uk@SD": {
       "source": "Plex/us",
-      "programs": 29,
+      "programs": 13,
       "through_utc": "2026-10-26T00:15:14+00:00"
     },
     "RedBullTV.at@US": {
       "source": "Roku/all",
-      "programs": 77,
-      "through_utc": "2026-10-27T19:31:42+00:00"
+      "programs": 72,
+      "through_utc": "2026-10-28T10:00:00+00:00"
     },
     "RetroCrush.us@SD": {
       "source": "Plex/us",
-      "programs": 46,
-      "through_utc": "2026-10-26T00:00:00+00:00"
+      "programs": 70,
+      "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "RevandRoll.us@SD": {
       "source": "Roku/all",
       "programs": 172,
-      "through_utc": "2026-10-27T19:16:08+00:00"
+      "through_utc": "2026-10-28T10:19:44+00:00"
     },
     "Revry.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 9,
-      "through_utc": "2026-10-25T12:10:00+00:00"
+      "programs": 14,
+      "through_utc": "2026-10-26T02:10:00+00:00"
     },
     "RevryLatinX.us@SD": {
       "source": "Plex/us",
-      "programs": 32,
+      "programs": 16,
       "through_utc": "2026-10-26T00:14:00+00:00"
     },
     "RiffTrax.us@US": {
       "source": "PlutoTV/us",
-      "programs": 13,
-      "through_utc": "2026-10-25T11:00:36+00:00"
+      "programs": 12,
+      "through_utc": "2026-10-26T02:30:36+00:00"
     },
     "RuntimeEspanol.us@SD": {
       "source": "Plex/us",
-      "programs": 17,
-      "through_utc": "2026-10-26T00:00:00+00:00"
+      "programs": 22,
+      "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "RyanandFriends.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 17,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 19,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "SNLVault.us@SD": {
       "source": "Plex/us",
-      "programs": 55,
-      "through_utc": "2026-10-27T00:00:00+00:00"
+      "programs": 64,
+      "through_utc": "2026-10-28T00:17:00+00:00"
     },
     "SamsungWildlife.us@SD": {
       "source": "SamsungTVPlus/us",
-      "programs": 11,
-      "through_utc": "2026-10-25T04:07:57+00:00"
+      "programs": 9,
+      "through_utc": "2026-10-25T18:20:48+00:00"
     },
     "ScrippsNews.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 25,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 28,
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "ShemarooBollywood.us@SD": {
       "source": "Plex/us",
-      "programs": 31,
+      "programs": 23,
       "through_utc": "2026-10-27T01:17:41+00:00"
     },
     "SlopesTV.us@SD": {
       "source": "Plex/us",
-      "programs": 27,
-      "through_utc": "2026-10-26T00:00:00+00:00"
+      "programs": 36,
+      "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "SmithsonianChannelSelects.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "SonicTV.us@SD": {
       "source": "Plex/us",
-      "programs": 27,
+      "programs": 12,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "SonyCanalNovelas.us@SD": {
       "source": "SamsungTVPlus/us",
-      "programs": 8,
-      "through_utc": "2026-10-25T03:50:18+00:00"
+      "programs": 7,
+      "through_utc": "2026-10-25T18:37:34+00:00"
     },
     "SpikeOutdoors.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "SpikePlutoTV.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 21,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 24,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "SportsGrid.us@SD": {
       "source": "Plex/us",
-      "programs": 34,
+      "programs": 25,
       "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "Stadium.us@SD": {
       "source": "Plex/us",
-      "programs": 22,
+      "programs": 17,
       "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "StarTrek.us@US": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "StingrayGreatestHolidayHits.us@SD": {
       "source": "Plex/us",
-      "programs": 7,
+      "programs": 4,
       "through_utc": "2026-10-26T02:00:00+00:00"
     },
     "StoriesbyAMC.us@SD": {
       "source": "Plex/us",
-      "programs": 58,
-      "through_utc": "2026-10-27T00:37:00+00:00"
+      "programs": 70,
+      "through_utc": "2026-10-28T00:03:00+00:00"
     },
     "SuperSimpleSongs.us@SD": {
       "source": "Roku/all",
       "programs": 105,
-      "through_utc": "2026-10-27T19:05:56+00:00"
+      "through_utc": "2026-10-28T10:04:15+00:00"
     },
     "Survivor.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 13,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 14,
+      "through_utc": "2026-10-26T03:15:00+00:00"
     },
     "SwerveSports.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 10,
-      "through_utc": "2026-10-25T11:01:59+00:00"
+      "programs": 14,
+      "through_utc": "2026-10-26T03:11:58+00:00"
     },
     "TGJunior.us@SD": {
       "source": "Plex/us",
-      "programs": 50,
+      "programs": 22,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "TMZ.us@SD": {
       "source": "Plex/us",
-      "programs": 67,
-      "through_utc": "2026-10-27T00:00:00+00:00"
+      "programs": 16,
+      "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "TODAYAllDay.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "TVLandDrama.us@SD": {
       "source": "PlutoTV/us",
       "programs": 14,
-      "through_utc": "2026-10-25T11:15:00+00:00"
+      "through_utc": "2026-10-26T02:15:00+00:00"
     },
     "TVLandSitcoms.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "Tastemade.us@US": {
       "source": "Plex/us",
-      "programs": 85,
+      "programs": 64,
       "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "TastemadeTravel.us@SD": {
       "source": "Roku/all",
-      "programs": 110,
-      "through_utc": "2026-10-27T19:31:00+00:00"
+      "programs": 106,
+      "through_utc": "2026-10-28T10:00:00+00:00"
     },
     "TeenMom.us@SD": {
       "source": "PlutoTV/us",
       "programs": 14,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "TelemundoAlDia.us@HD": {
       "source": "Plex/us",
-      "programs": 34,
-      "through_utc": "2026-10-26T00:00:00+00:00"
+      "programs": 51,
+      "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "TelemundoTelenovelasClasicas.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "TennisChannel.us@Plus2": {
       "source": "PlutoTV/us",
-      "programs": 9,
-      "through_utc": "2026-10-25T14:00:00+00:00"
+      "programs": 7,
+      "through_utc": "2026-10-26T10:00:00+00:00"
     },
     "TheAddamsFamily.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "TheAmazingRace.us@SD": {
       "source": "PlutoTV/us",
       "programs": 14,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "TheAndyGriffithShow.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "TheAsylum.us@US": {
       "source": "Roku/all",
       "programs": 44,
-      "through_utc": "2026-10-27T19:31:00+00:00"
+      "through_utc": "2026-10-28T10:00:00+00:00"
     },
     "TheBobRossChannel.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:15:00+00:00"
+      "through_utc": "2026-10-26T02:15:00+00:00"
     },
     "TheCarolBurnettShow.us@SD": {
       "source": "Plex/us",
-      "programs": 66,
-      "through_utc": "2026-10-27T00:24:31+00:00"
+      "programs": 15,
+      "through_utc": "2026-10-26T00:22:32+00:00"
     },
     "TheChallenge.us@SD": {
       "source": "PlutoTV/us",
       "programs": 12,
-      "through_utc": "2026-10-25T11:45:00+00:00"
+      "through_utc": "2026-10-26T02:45:00+00:00"
     },
     "TheConners.us@SD": {
       "source": "Plex/us",
-      "programs": 119,
-      "through_utc": "2026-10-27T00:19:51+00:00"
+      "programs": 140,
+      "through_utc": "2026-10-28T00:10:13+00:00"
     },
     "TheDesignNetwork.us@SD": {
       "source": "Plex/us",
-      "programs": 98,
+      "programs": 68,
       "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "TheFirstTV.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "TheGrahamNortonShow.uk@SD": {
       "source": "Plex/us",
-      "programs": 69,
-      "through_utc": "2026-10-27T00:33:24+00:00"
+      "programs": 83,
+      "through_utc": "2026-10-28T00:04:09+00:00"
     },
     "TheHillTV.us@SD": {
       "source": "Roku/all",
-      "programs": 70,
-      "through_utc": "2026-10-27T19:00:00+00:00"
+      "programs": 71,
+      "through_utc": "2026-10-28T10:00:00+00:00"
     },
     "TheJamieOliverChannel.us@SD": {
       "source": "PlutoTV/us",
       "programs": 25,
-      "through_utc": "2026-10-25T11:48:00+00:00"
+      "through_utc": "2026-10-26T02:10:00+00:00"
     },
     "TheJudgeJudyChannel.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "TheLoveBoat.us@SD": {
       "source": "PlutoTV/us",
       "programs": 14,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:45:00+00:00"
     },
     "TheNewDetectives.us@US": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "ThePetCollective.us@US": {
       "source": "PlutoTV/us",
-      "programs": 22,
-      "through_utc": "2026-10-25T11:06:00+00:00"
+      "programs": 25,
+      "through_utc": "2026-10-26T02:12:00+00:00"
     },
     "ThePriceIsRight.us@HD": {
       "source": "PlutoTV/us",
       "programs": 14,
-      "through_utc": "2026-10-25T11:02:00+00:00"
+      "through_utc": "2026-10-26T02:02:00+00:00"
     },
     "ThePriceIsRightTheBarkerEra.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 14,
+      "through_utc": "2026-10-26T02:01:00+00:00"
     },
     "TheRifleman.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "TheWalkingDeadUniverse.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T11:02:00+00:00"
+      "through_utc": "2026-10-26T03:07:00+00:00"
     },
     "TheWalkingDeadenEspanol.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 15,
-      "through_utc": "2026-10-25T11:15:00+00:00"
+      "programs": 16,
+      "through_utc": "2026-10-26T02:47:00+00:00"
     },
     "ThisOldHouse.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "ThreesCompany.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "TinyHouseNation.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 21,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 14,
+      "through_utc": "2026-10-26T02:01:00+00:00"
     },
     "ToonGoggles.us@SD": {
       "source": "Plex/us",
-      "programs": 77,
+      "programs": 31,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "Tosh0.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "TotallyTurtles.us@US": {
       "source": "PlutoTV/us",
       "programs": 30,
-      "through_utc": "2026-10-25T11:26:00+00:00"
+      "through_utc": "2026-10-26T02:28:00+00:00"
     },
     "TribecaChannel.us@SD": {
       "source": "Plex/us",
-      "programs": 23,
-      "through_utc": "2026-10-27T01:11:42+00:00"
+      "programs": 6,
+      "through_utc": "2026-10-26T01:50:35+00:00"
     },
     "TrueCrimeNow.us@SD": {
       "source": "Plex/us",
-      "programs": 27,
-      "through_utc": "2026-10-26T00:38:38+00:00"
+      "programs": 12,
+      "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "TrueHistory.us@SD": {
       "source": "Plex/us",
-      "programs": 101,
+      "programs": 71,
       "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "USATODAY.us@SD": {
       "source": "Plex/us",
-      "programs": 44,
+      "programs": 19,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "Unbeaten.us@SD": {
       "source": "Plex/us",
-      "programs": 13,
+      "programs": 5,
       "through_utc": "2026-10-26T00:30:00+00:00"
     },
     "Unidentified.us@SD": {
       "source": "Plex/us",
-      "programs": 46,
+      "programs": 33,
       "through_utc": "2026-10-27T00:43:47+00:00"
     },
     "UniversalCrime.us@East": {
       "source": "PlutoTV/us",
       "programs": 9,
-      "through_utc": "2026-10-25T12:34:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "UnsolvedMysteries.us@US": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:15:00+00:00"
     },
     "VICETV.us@SD": {
       "source": "Plex/us",
-      "programs": 27,
-      "through_utc": "2026-10-26T00:00:00+00:00"
+      "programs": 36,
+      "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "VenevisionInternacional.ve@SD": {
       "source": "Roku/all",
-      "programs": 44,
-      "through_utc": "2026-10-27T19:00:00+00:00"
+      "programs": 45,
+      "through_utc": "2026-10-28T10:00:00+00:00"
     },
     "Vevo2K.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 11,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 14,
+      "through_utc": "2026-10-26T04:00:00+00:00"
     },
     "Vevo70s.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 11,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 12,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "Vevo80s.us@SD": {
       "source": "PlutoTV/us",
       "programs": 12,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "Vevo90s.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 13,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 14,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "VevoCountry.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 11,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 12,
+      "through_utc": "2026-10-26T04:00:00+00:00"
     },
     "VevoHipHop.us@SD": {
       "source": "Roku/all",
-      "programs": 63,
-      "through_utc": "2026-10-27T19:00:00+00:00"
+      "programs": 67,
+      "through_utc": "2026-10-28T10:00:00+00:00"
     },
     "VevoLatino.us@SD": {
       "source": "Roku/all",
-      "programs": 51,
-      "through_utc": "2026-10-27T19:00:00+00:00"
+      "programs": 53,
+      "through_utc": "2026-10-28T10:00:00+00:00"
     },
     "VevoPop.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 11,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 12,
+      "through_utc": "2026-10-26T04:00:00+00:00"
     },
     "VevoRB.us@SD": {
       "source": "PlutoTV/us",
       "programs": 12,
-      "through_utc": "2026-10-25T13:00:00+00:00"
+      "through_utc": "2026-10-26T04:00:00+00:00"
     },
     "VevoRetroRock.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 14,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 15,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "VevoTrueSchoolHipHop.us@SD": {
       "source": "PlutoTV/us",
-      "programs": 13,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "programs": 11,
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "WBTV641.us@HD": {
       "source": "Roku/all",
-      "programs": 114,
-      "through_utc": "2026-10-27T19:00:00+00:00"
+      "programs": 117,
+      "through_utc": "2026-10-28T10:00:00+00:00"
     },
     "WantedDeadorAlive.us@SD": {
       "source": "Plex/us",
-      "programs": 54,
+      "programs": 24,
       "through_utc": "2026-10-26T00:15:45+00:00"
     },
     "WatchitScream.us@SD": {
       "source": "Plex/us",
-      "programs": 27,
+      "programs": 12,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "WaypointTV.us@SD": {
       "source": "Plex/us",
-      "programs": 59,
+      "programs": 23,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "WeatherNation.us@SD": {
       "source": "Roku/all",
-      "programs": 36,
-      "through_utc": "2026-10-27T20:00:00+00:00"
+      "programs": 35,
+      "through_utc": "2026-10-28T10:00:00+00:00"
     },
     "WeatherSpy.us@SD": {
       "source": "Plex/us",
-      "programs": 30,
+      "programs": 13,
       "through_utc": "2026-10-26T00:09:15+00:00"
     },
     "WesternTV.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "WildNOut.us@SD": {
       "source": "PlutoTV/us",
       "programs": 27,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "WillowSports.us@SD": {
       "source": "Plex/us",
-      "programs": 25,
+      "programs": 10,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "WipeoutXtra.us@SD": {
       "source": "Plex/us",
-      "programs": 23,
+      "programs": 10,
       "through_utc": "2026-10-26T00:06:33+00:00"
     },
     "Wired2FishTV.us@SD": {
       "source": "Plex/us",
-      "programs": 94,
+      "programs": 66,
       "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "WomensSportsNetwork.us@SD": {
       "source": "PlutoTV/us",
       "programs": 14,
-      "through_utc": "2026-10-25T11:00:08+00:00"
+      "through_utc": "2026-10-26T02:00:08+00:00"
     },
     "WorldPokerTour.us@US": {
       "source": "PlutoTV/us",
-      "programs": 7,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "programs": 8,
+      "through_utc": "2026-10-26T02:15:00+00:00"
     },
     "WuTangCollection.us@SD": {
       "source": "Plex/us",
-      "programs": 21,
-      "through_utc": "2026-10-26T00:44:16+00:00"
+      "programs": 29,
+      "through_utc": "2026-10-27T00:08:18+00:00"
     },
     "XITE90sThrowback.us@SD": {
       "source": "Plex/us",
-      "programs": 11,
+      "programs": 4,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "XITEClassicCountry.nl@SD": {
       "source": "Plex/us",
-      "programs": 11,
+      "programs": 4,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "XITEJustChill.nl@US": {
       "source": "Plex/us",
-      "programs": 11,
+      "programs": 4,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "XITENuevoLatino.us@SD": {
       "source": "Plex/us",
-      "programs": 10,
+      "programs": 4,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "XITEReggaeVibes.nl@HD": {
       "source": "Plex/us",
-      "programs": 9,
+      "programs": 3,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "XITERockxMetal.nl@US": {
       "source": "Plex/us",
-      "programs": 11,
+      "programs": 4,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "XITESiempreLatino.us@SD": {
       "source": "Plex/us",
-      "programs": 12,
+      "programs": 4,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "XploreTV.us@SD": {
       "source": "SamsungTVPlus/us",
       "programs": 15,
-      "through_utc": "2026-10-25T03:27:54+00:00"
+      "through_utc": "2026-10-25T18:28:25+00:00"
     },
     "YahooFinance.us@SD": {
       "source": "Plex/us",
-      "programs": 50,
+      "programs": 22,
       "through_utc": "2026-10-26T00:00:00+00:00"
     },
     "YoMTV.us@SD": {
       "source": "PlutoTV/us",
       "programs": 15,
-      "through_utc": "2026-10-25T12:00:00+00:00"
+      "through_utc": "2026-10-26T03:00:00+00:00"
     },
     "YuGiOh.us@SD": {
       "source": "PlutoTV/us",
       "programs": 28,
-      "through_utc": "2026-10-25T11:30:00+00:00"
+      "through_utc": "2026-10-26T02:30:00+00:00"
     },
     "beINSPORTSXTRA.us@SD": {
       "source": "Plex/us",
-      "programs": 27,
-      "through_utc": "2026-10-26T01:00:00+00:00"
+      "programs": 33,
+      "through_utc": "2026-10-27T01:00:00+00:00"
     },
     "beINSPORTSXTRAenEspanol.us@SD": {
       "source": "Plex/us",
-      "programs": 23,
-      "through_utc": "2026-10-26T00:00:00+00:00"
+      "programs": 28,
+      "through_utc": "2026-10-27T00:00:00+00:00"
     },
     "bonappetit.us@SD": {
       "source": "Roku/all",
       "programs": 70,
-      "through_utc": "2026-10-27T19:00:00+00:00"
+      "through_utc": "2026-10-28T10:00:00+00:00"
     }
   },
   "unmatched_ids": [
@@ -2342,6 +2342,7 @@
     "FNX.us@KVCRDT",
     "FNX.us@SD",
     "FX.us@East",
+    "FairgroundAICreatorTV.us@SD",
     "FaithTV.us@SD",
     "FashionFinds.us@SD",
     "FeelGoodDrama.us@SD",

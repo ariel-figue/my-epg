@@ -5,7 +5,7 @@ on:
     - cron: '23 7,19 * * *'
   push:
     branches: [main]
-    paths: ['scripts/**', 'tests/**', '.github/workflows/update.yml']
+    paths: ['scripts/**', 'tests/**', 'docs/**', '.github/workflows/update.yml']
 permissions:
   contents: write
 concurrency:
@@ -37,9 +37,9 @@ jobs:
         with:
           path: docs
   pages:
-    if: vars.ENABLE_PAGES == 'true'
     needs: refresh
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       pages: write
       id-token: write
@@ -47,6 +47,8 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      - name: Check GitHub Pages configuration
+        uses: actions/configure-pages@v5
       - name: Deploy website
         id: deployment
         uses: actions/deploy-pages@v4
